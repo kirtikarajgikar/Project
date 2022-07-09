@@ -33,6 +33,7 @@ public class Link {
 public int count()
 {
 int cnt=0;
+	//this is comment....hello kirti
 	if(head==null)
 	{
 		System.out.println("Empty");
